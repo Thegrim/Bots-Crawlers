@@ -1,0 +1,962 @@
+[
+  {
+    "url": "https://www.aep.com/news/",
+    "emails": [
+      "mediarelations@aep.com."
+    ]
+  },
+  {
+    "url": "https://www.aep.com/careers/positions",
+    "emails": [
+      "HRISRecruitHelp@aep.com."
+    ]
+  },
+  {
+    "url": "https://www.aep.com/careers/women-in-linework",
+    "emails": [
+      "WiL@impactca.org"
+    ]
+  },
+  {
+    "url": "https://www.aep.com/community/education",
+    "emails": [
+      "community@aep.com."
+    ]
+  },
+  {
+    "url": "https://www.aep.com/community/GivingBack",
+    "emails": [
+      "AEPOhioContributions@aep.com"
+    ]
+  },
+  {
+    "url": "https://www.aep.com/about/businesses/aepenergypartners",
+    "emails": [
+      "bpwhitlatch@aepes.com"
+    ]
+  },
+  {
+    "url": "https://www.aep.com/b2b/suppliers",
+    "emails": [
+      "supplierdiversity@aep.com."
+    ]
+  },
+  {
+    "url": "https://www.aep.com/b2b/ap/invoices",
+    "emails": [
+      "aribasupport@aep.com"
+    ]
+  },
+  {
+    "url": "https://www.aep.com/b2b/ap/faq",
+    "emails": [
+      "aribasupport@aep.com."
+    ]
+  },
+  {
+    "url": "https://www.aep.com/b2b/coalproducts",
+    "emails": [
+      "dhscott2@aep.com"
+    ]
+  },
+  {
+    "url": "https://www.aep.com/assets/docs/investors/filings/docs/AEP_10K_2021.pdf",
+    "emails": [
+      "x��\u001c]o$��{�\u0019�\u0019�%i�\u0002�P\\OE:�\u0019�'\u0010�C`{m�[�k��wE�\"m�\u0002$����\u000f�(���fׇ>\u0004�xw(�HQ\u0014Iq�=>+\u0016E����A�\u0010������\u0007?�\u001f�f�V]V7���\u000e>�yְ7�·�l�\u001e�k=\\W��^���p=�m��R�m4�9j[j�;��F?\u0019�[��s����1\u001f@{��E�W��j�^h��\u001a.p.P�t?��Ϩ�?i��"
+    ]
+  },
+  {
+    "url": "https://www.aep.com/privacy",
+    "emails": [
+      "privacy@aep.com"
+    ]
+  },
+  {
+    "url": "https://www.aep.com/donotsell",
+    "emails": [
+      "allowed.&q;,&q;isConfirmFieldEnabled&q;:false,&q;confirmFieldLabelKey&q;:&q;confirmLastNameLabel&q;,&q;confirmFieldValidationPreviewKey&q;:&q;confirmLastNameValidationPreview&q;,&q;confirmFieldValidationErrorKey&q;:&q;confirmLastNameValidationError&q;,&q;validationExpression&q;:&q;^([A-Za-z-.&s;,]{1,30})$&q;,&q;isSensitive&q;:false,&q;isDependant&q;:false,&q;isHidden&q;:false,&q;isCustomStateOrCountryField&q;:false,&q;customStateAndCountryFieldType&q;:&q;Text&q;,&q;allowFutureDates&q;:false},{&q;dataType&q;:&q;Email&q;,&q;inputType&q;:&q;Email&q;,&q;canDelete&q;:false,&q;description&q;:&q;FormField3Desc&q;,&q;isSelected&q;:true,&q;cannotUnselect&q;:false,&q;isRequired&q;:true,&q;fieldKey&q;:&q;email&q;,&q;previewClass&q;:&q;fullWidth&q;,&q;isMasked&q;:true,&q;status&q;:10,&q;isInternal&q;:false,&q;isVerificationMethod&q;:false,&q;validationPreviewKey&q;:&q;emailValidationPreview&q;,&q;validationPreviewValue&q;:&q;example@domain.com&q;,&q;validationErrorKey&q;:&q;emailValidationError&q;,&q;validationErrorValue&q;:&q;&q;,&q;isConfirmFieldEnabled&q;:false,&q;confirmFieldLabelKey&q;:&q;confirmEmailLabel&q;,&q;confirmFieldValidationPreviewKey&q;:&q;confirmEmailValidationPreview&q;,&q;confirmFieldValidationErrorKey&q;:&q;confirmEmailValidationError&q;,&q;validationExpression&q;:&q;^(([^&l;&g;()[\\\\]\\\\\\\\.,;:\\\\s@\\\\\\&q;]+(\\\\.[^&l;&g;()[\\\\]\\\\\\\\.,;:\\\\s@\\\\\\&q;]+)*)|(\\\\\\&q;.+\\\\\\&q;))@((\\\\[[0-9]{1,3}\\\\.[0-9]{1,3}\\\\.[0-9]{1,3}\\\\.[0-9]{1,3}\\\\])|(([a-zA-Z\\\\-0-9]+\\\\.)+[a-zA-Z]{2,}))$&q;,&q;validationType&q;:&q;Email&q;,&q;isSensitive&q;:false,&q;isDependant&q;:false,&q;isHidden&q;:false,&q;isCustomStateOrCountryField&q;:false,&q;customStateAndCountryFieldType&q;:&q;Text&q;,&q;allowFutureDates&q;:false},{&q;dataType&q;:&q;Text&q;,&q;inputType&q;:&q;Multiselect&q;,&q;canDelete&q;:false,&q;description&q;:&q;subjectTypesDesc&q;,&q;options&q;:[{&q;key&q;:&q;SubjectType11&q;,&q;value&q;:&q;Current"
+    ]
+  },
+  {
+    "url": "https://www.apge.com",
+    "emails": [
+      "customer@apge.com"
+    ]
+  },
+  {
+    "url": "https://alphagasandelectric.com/alpha-clean-and-green",
+    "emails": [
+      "marketing@alphagne.com"
+    ]
+  },
+  {
+    "url": "https://alphagasandelectric.com/join-our-team/",
+    "emails": [
+      "hr@alphagne.com"
+    ]
+  },
+  {
+    "url": "https://alphagasandelectric.com/giving-back",
+    "emails": [
+      "marketing@alphagne.com."
+    ]
+  },
+  {
+    "url": "https://alphagasandelectric.com/broker-consulting-network/",
+    "emails": [
+      "brokernetwork@alphagne.com."
+    ]
+  },
+  {
+    "url": "https://alphagasandelectric.com/affiliate-and-referral-network/",
+    "emails": [
+      "marketing@alphagne.com!"
+    ]
+  },
+  {
+    "url": "https://alphagasandelectric.com/illinois-terms-and-conditions/",
+    "emails": [
+      "customerservice@alphagne.com."
+    ]
+  },
+  {
+    "url": "https://alphagasandelectric.com/ohio-terms-and-conditions/",
+    "emails": [
+      "all@alphagne.com."
+    ]
+  },
+  {
+    "url": "https://alphagasandelectric.com/connect-with-us",
+    "emails": [
+      "sales@alphagne.com"
+    ]
+  },
+  {
+    "url": "https://www.arcadia.com/plug",
+    "emails": [
+      "*h��@C�6,R;��\u0017m�Z�q�ۃ�0k\u000f�I{8�������=�.ۧ�a�\u0003l��y{"
+    ]
+  },
+  {
+    "url": "https://www.arcadia.com/spark",
+    "emails": [
+      "a�\u0019�@\u0006Ч��h|���\u0015.��b�\u0018nA_�"
+    ]
+  },
+  {
+    "url": "https://www.arcadia.com/bundle",
+    "emails": [
+      "\u001f�\b\u0003��v�6�0��>\u0005�s�\u001b;��\"��<�����\u00169v��v�gO\u000e��-��7�E���9�\u001a�z�$[\u0005�$@\u0002$Z-9��Ό$�@\u0001(\u0014�N�?������\u001f�tN6��\u000f����4�\u001f߹��o��Y�I�y:���8�d���js�\u0019.�l��s�|2ڜ�\u0019eg�a�e��d>�L�iw=L��\u001d��[uǓ͝��,[�8�n�t$�\u000fO�Ջ"
+    ]
+  },
+  {
+    "url": "https://www.arcadia.com/source",
+    "emails": [
+      "��@�k(���/.fE�،O��1��\u0015\u0014_���\u001b�Ou��8����z\u0005\\q&�"
+    ]
+  },
+  {
+    "url": "https://www.arcadia.com/esg-and-carbon-management",
+    "emails": [
+      "�~��\u0019\b�\u0005����W�n���WϾ;���)=��@\"�s���{��GG�x�.�A:�/�w�f�;LfgG��r�."
+    ]
+  },
+  {
+    "url": "https://www.arcadia.com/success-stories",
+    "emails": [
+      "\u0007H��T�I���d�#�5���I6/U@�J��e���#v\u0002u������J��|�b����>q.vW�/���:�dy��$]�|�ϫt�8��*}xr=O߬W�݉3Y-w�r����|��x8M�瓴O@o����ɢ��$����Z��|�p��N7'���4���'\u0017��e"
+    ]
+  },
+  {
+    "url": "https://www.arcadia.com/for-businesses",
+    "emails": [
+      "\u001f�\b\u0003��v\u001bG�0��\u0002�>�c�PeVe]��w$�2mS��\u0017Z��=>\u0005�@B\u0004\u0001\u0018\u0017����|���>��%�*�.@��ԶG�i�Qy���������|�r����~�9�\\�>�'�ۙ���\u000f�����y�m��<��\u001e?��f���j�3Z�7�|����t�9<ή���G@w:�n�鬷\u001e����R��t�x���V\u000f\u001eB3Y:֕�����\u0019T��Lz1&\u001e�&��L7��'�Q:������l��<ݮ��l����|��vի�p�Y[\u0015O���;Y�f��R7�\u0016��Y\u0006��e\u001fg��j��L\u0017s��O������*�g��f\u0001��e'�g��7��,K���3ݬ;�h�/ո��n6��h���V����e�z��,]�e�N/ӳ���z�ɬ���2���Ye�f��U`�Z,�����\u0007��#®��i\u001e�K�'������U��f�\\\u001f=|x}}�ף�\u0016�\u000f'�Uo����7K{|�ِ\u0010Z�����.}_�����r:�O\u0017\u000fu/z�,\u001d-F\u0017\u000f�,\u001a{���\u0005�I�"
+    ]
+  },
+  {
+    "url": "https://www.arcadia.com/contact",
+    "emails": [
+      "4@��$;���M\u0015���[WU\u0017��o_�}���o������_g�NG\u000f\u000f���W���V�3M���\u0007���f>[�\u000e��l�ʦ��\u00077�����0�\u001e\u000f�6\u0003��t�\u001a���r�N���ej��ƫ���u�88�n�t�\u001b\u001f���W\u00195�^��c��m���\u001a�&�W�\u0016�t8N����R�t�r��\u001e�wv��Y�ZZ�����m�l6��n*C\u0018�f�IF��+>̖��x�\u001aϦV�\u001f�����\u0017�s��?�\u0019�N�N6�\u0016�w�`��Sg=wƫ�Cc�TZ\\݌W�lq4H\u0017C�����*]��e�.F�/�t�5T\\�W�U�S�JM�,�t5[l�0_���b����ltīk��ۃ��\u001fs�J"
+    ]
+  },
+  {
+    "url": "https://www.arcadia.com/case-study-aspen-power",
+    "emails": [
+      "\u0007Le�\u001d,���~�N���XR~�t��_'~��β�\u0007��Vz���MW��0�\u000e���:]'v\u00177\u000f\u001ej@�\u000f5�����(B�ҽx����\u0005�7L%S�;�����ߋm��4��dv\u000eX�֖D�b]\u001b�D�����\u0003\u0010�u惷�\u0013;\u0013b�\u001d\u001b�\u0016X�\u0019l�f\u001dX�\u000e\b��\u000e�I�U\\��p>�:�l�\u0019�g��3�<�Lf���`��\u001d6�墳���vV��|v�Ym\u0006���s�.;�Τ3����h\u0004H�{d:�'�t��֤��L�\u00014>�΀\u0010w��`"
+    ]
+  },
+  {
+    "url": "https://www.atlanticenergyco.com/contact/",
+    "emails": [
+      "info@atlanticenergyco.com(800)"
+    ]
+  },
+  {
+    "url": "https://www.championenergyservices.com",
+    "emails": [
+      "Name','first.last@company.com',555-555-5555]});"
+    ]
+  },
+  {
+    "url": "https://www.championenergyservices.com/Privacy-Policy",
+    "emails": [
+      "support@championenergyservices.com"
+    ]
+  },
+  {
+    "url": "https://cleanchoiceenergy.com/enroll",
+    "emails": [
+      "logo\",\"file\":{\"url\":\"//images.ctfassets.net/gztkr1jaynk0/1O54jLmIsbu7R5V4hz9Exb/89cf1c0a4214a1f741483813aec641d8/certified-b-corp_.png\",\"details\":{\"size\":33561,\"image\":{\"width\":188,\"height\":320}},\"fileName\":\"certified-b-corp@.png\",\"contentType\":\"image/png\"}}}}},{\"metadata\":{\"tags\":[]},\"sys\":{\"space\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Space\",\"id\":\"gztkr1jaynk0\"}},\"id\":\"6SX4z473KsRBPlgM6frwW1\",\"type\":\"Entry\",\"createdAt\":\"2019-12-16T20:26:36.785Z\",\"updatedAt\":\"2020-02-10T14:47:59.941Z\",\"environment\":{\"sys\":{\"id\":\"master\",\"type\":\"Link\",\"linkType\":\"Environment\"}},\"revision\":4,\"contentType\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"ContentType\",\"id\":\"certifications\"}},\"locale\":\"en-US\"},\"fields\":{\"title\":\"Best"
+    ]
+  },
+  {
+    "url": "https://cleanchoiceenergy.com/news/save-energy-in-your-home",
+    "emails": [
+      "','nodeType':'text'},{'data':{'uri':'https://www.terracycle.com/en-US/brigades/toms-of-maine#@40.77027075200147:-95.93705549677736zoom:4'},'content':[{'data':{},'marks':[{'type':'underline'}],'value':'TerraCycle','nodeType':'text'}],'nodeType':'hyperlink'},{'data':{},'marks':[],'value':'"
+    ]
+  },
+  {
+    "url": "https://cleanchoiceenergy.com/products/clean-electricity/disclosures",
+    "emails": [
+      "Pennsylvania.\",\"file\":{\"url\":\"//images.ctfassets.net/gztkr1jaynk0/3ThuTn82MArhERwuE12hQ3/7e12ce8ca6f714158796075c96a2f6e9/cce-map-solar-wind-farms_2x.png\",\"details\":{\"size\":251689,\"image\":{\"width\":1636,\"height\":1632}},\"fileName\":\"cce-map-solar-wind-farms@2x.png\",\"contentType\":\"image/png\"}}},\"mediaCaption\":\"Some"
+    ]
+  },
+  {
+    "url": "https://cleanchoiceenergy.com/disclosures/privacy",
+    "emails": [
+      "support@cleanchoiceenergy.com"
+    ]
+  },
+  {
+    "url": "https://cleanchoiceenergy.com/disclosures/terms",
+    "emails": [
+      "support@cleanchoiceenergy.com.1."
+    ]
+  },
+  {
+    "url": "https://www.clearviewenergy.com",
+    "emails": [
+      "customerservice@clearviewenergy.comWe"
+    ]
+  },
+  {
+    "url": "https://www.cpv.com/2023/01/06/cpv-announces-launch-of-cpv-retail-energy-platform/",
+    "emails": [
+      "817-8964mlitchfield@cpv.com"
+    ]
+  },
+  {
+    "url": "https://www.dynegy.com/-/media/Project/Retail-Expansion/Dynegy/Files/Legal-Docs/Privacy-Policy-Revision_DYN_APPROVED.pdf",
+    "emails": [
+      "w���s|���-ZO�xkeU�$\b��qm\u0015�\u0016��f�\u001a�ᣲbw�0�\u001b\u001d���,�̓%M�{�@@��y��C\\�ߕo.����L�C\u000f��%1^�@��b�{�>N�"
+    ]
+  },
+  {
+    "url": "https://www.eligoenergy.com/how-it-works",
+    "emails": [
+      "customerservice@eligoenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.eligoenergy.com/net-metering",
+    "emails": [
+      "netmetering@eligoenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.eligoenergy.com/privacy",
+    "emails": [
+      "customerservice@eligoenergy.com."
+    ]
+  },
+  {
+    "url": "https://www.energypluscompany.com/care/care.php",
+    "emails": [
+      "________@EnergyPlusCompany.com"
+    ]
+  },
+  {
+    "url": "https://www.energypluscompany.com/care/terms.php",
+    "emails": [
+      "service@energypluscompany.com."
+    ]
+  },
+  {
+    "url": "https://www.energypluscompany.com/service_areas/connecticut.php",
+    "emails": [
+      "pura.information@ct.gov"
+    ]
+  },
+  {
+    "url": "https://www.energypluscompany.com/service_areas/illinois.php",
+    "emails": [
+      "ILSupport@EnergyPlusCompany.com"
+    ]
+  },
+  {
+    "url": "https://www.energypluscompany.com/service_areas/massachusetts.php",
+    "emails": [
+      "MASupport@EnergyPlusCompany.com"
+    ]
+  },
+  {
+    "url": "https://www.energypluscompany.com/service_areas/maryland.php",
+    "emails": [
+      "MDSupport@EnergyPlusCompany.com"
+    ]
+  },
+  {
+    "url": "https://www.energypluscompany.com/service_areas/newjersey.php",
+    "emails": [
+      "NJSupport@EnergyPlusCompany.com"
+    ]
+  },
+  {
+    "url": "https://www.energypluscompany.com/service_areas/newyork.php",
+    "emails": [
+      "NYSupport@EnergyPlusCompany.com"
+    ]
+  },
+  {
+    "url": "https://www.energypluscompany.com/service_areas/ohio.php",
+    "emails": [
+      "OHSupport@EnergyPlusCompany.com"
+    ]
+  },
+  {
+    "url": "https://www.energypluscompany.com/service_areas/pennsylvania.php",
+    "emails": [
+      "PASupport@EnergyPlusCompany.com"
+    ]
+  },
+  {
+    "url": "https://www.enerstar.com/billing-options",
+    "emails": [
+      "billing@enerstar.com."
+    ]
+  },
+  {
+    "url": "https://www.enerstar.com/smarthub",
+    "emails": [
+      "name[@]domain.com"
+    ]
+  },
+  {
+    "url": "https://www.enerstar.com/planned-outage-call-list",
+    "emails": [
+      "memberservices@enerstar.com."
+    ]
+  },
+  {
+    "url": "https://www.enerstar.com/scholarships",
+    "emails": [
+      "agriffin@enerstar.com."
+    ]
+  },
+  {
+    "url": "https://www.enerstar.com/train-arriving-confirm-your-next-destination",
+    "emails": [
+      "CEO/CFOdclinton@enerstar.com"
+    ]
+  },
+  {
+    "url": "https://www.enerstar.com/planned-outage-notification-call-list",
+    "emails": [
+      "kfoos@enerstar.com"
+    ]
+  },
+  {
+    "url": "https://www.frontierutilities.com/PRIVACY-POLICY",
+    "emails": [
+      "care@frontierutilities.com."
+    ]
+  },
+  {
+    "url": "https://www.frontierutilities.com/About-Frontier/Contact-Us",
+    "emails": [
+      "care@frontierutilities.com"
+    ]
+  },
+  {
+    "url": "https://www.greatamericanpower.com/legal-terms",
+    "emails": [
+      "service@greatamericanpower.com."
+    ]
+  },
+  {
+    "url": "https://www.greatamericanpower.com/privacy-policy",
+    "emails": [
+      "Service@GreatAmericanPower.com.How"
+    ]
+  },
+  {
+    "url": "https://www.greenmountainenergy.com/business-electricity/commercial-solar-buyback-program",
+    "emails": [
+      "solutions@greenmountain.com"
+    ]
+  },
+  {
+    "url": "https://www.greenmountainenergy.com/business-electricity/business-channel-partners",
+    "emails": [
+      "gateway@greenmountain.com."
+    ]
+  },
+  {
+    "url": "https://www.greenmountainenergy.com/home-energy-solutions/carbon-offsets",
+    "emails": [
+      "carbonoffsetpurchase@greenmountain.com."
+    ]
+  },
+  {
+    "url": "https://www.greenmountainenergy.com/customer-service-center/drive-an-electric-vehicle",
+    "emails": [
+      "(electriccars@greenmountain.com)"
+    ]
+  },
+  {
+    "url": "https://www.greenmountainenergy.com/sun-club/apply/",
+    "emails": [
+      "sunclub@greenmountain.com"
+    ]
+  },
+  {
+    "url": "https://www.greenmountainenergy.com/contact-us/residential",
+    "emails": [
+      "ILCustomerCare@greenmountain.com"
+    ]
+  },
+  {
+    "url": "https://www.greenmountainenergy.com/contact-us/commercial",
+    "emails": [
+      "gmecbizcare@greenmountain.com"
+    ]
+  },
+  {
+    "url": "https://www.greenmountainenergy.com/pennsylvania",
+    "emails": [
+      "PACustomerCare@greenmountain.com"
+    ]
+  },
+  {
+    "url": "https://www.greenmountainenergy.com/our-story/news-room",
+    "emails": [
+      "Media@GreenMountain.com"
+    ]
+  },
+  {
+    "url": "https://gogreenlightenergy.com",
+    "emails": [
+      "info@gogreenlightenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.holcim.us/contact",
+    "emails": [
+      "mylifeus@holcim.com"
+    ]
+  },
+  {
+    "url": "https://www.holcim.us/news",
+    "emails": [
+      "jocelyn.gerst@holcim.com"
+    ]
+  },
+  {
+    "url": "https://www.holcim.us/directaccess",
+    "emails": [
+      "nabs.ar@holcim.help"
+    ]
+  },
+  {
+    "url": "https://www.holcim.us/wind-and-solar-renewable-energy?utm_source=press_release&utm_medium=linkedin&utm_campaign=renewable_energy",
+    "emails": [
+      "CastroMeredith.Castro@holcim.com"
+    ]
+  },
+  {
+    "url": "https://www.holcim.us/legal-mentions",
+    "emails": [
+      "privacy.lh@holcim.com."
+    ]
+  },
+  {
+    "url": "https://www.holcim.us/cookies",
+    "emails": [
+      "privacy.lh@holcim.com"
+    ]
+  },
+  {
+    "url": "http://hplco.com",
+    "emails": [
+      "service@hplco.com."
+    ]
+  },
+  {
+    "url": "https://www.icenergyservices.com",
+    "emails": [
+      "ian@icenergyservices.comIC"
+    ]
+  },
+  {
+    "url": "https://www.inspirecleanenergy.com",
+    "emails": [
+      "→Contacthelp@inspirecleanenergy.com(866)"
+    ]
+  },
+  {
+    "url": "https://www.inspirecleanenergy.com/answer-center",
+    "emails": [
+      "(help@inspirecleanenergy.com),"
+    ]
+  },
+  {
+    "url": "https://www.inspirecleanenergy.com/terms-of-use",
+    "emails": [
+      "legal@inspirecleanenergy.comPlease"
+    ]
+  },
+  {
+    "url": "https://www.inspirecleanenergy.com/policies/privacy-policy",
+    "emails": [
+      "help@inspirecleanenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.igs.com/contact-us/",
+    "emails": [
+      "href=\\\"mailto:customersupport@IGS.com\\\">customersupport@IGS.com</a></p><p>&nbsp;</p><h4>ADDRESS</h4><p>6100"
+    ]
+  },
+  {
+    "url": "https://www.igs.com/privacy-policy/",
+    "emails": [
+      "communications@igs.com.Service"
+    ]
+  },
+  {
+    "url": "https://www.igs.com/copyright-policy/",
+    "emails": [
+      "659-5000customersupport@igs.comIf"
+    ]
+  },
+  {
+    "url": "https://www.igs.com/terms-of-use/",
+    "emails": [
+      "customersupport@igs.com.Thank"
+    ]
+  },
+  {
+    "url": "https://www.igs.com/ferc-related-inquiries/",
+    "emails": [
+      "href=\\\"mailto:joe.haugen@igs.com\\\">joe.haugen@igs.com</a></p>&nbsp;&nbsp;&nbsp;\",\"hideSeparator\":true,\"justify\":\"center\",\"callToAction\":{\"mode\":0,\"href\":null,\"linkText\":null,\"linkStyle\":\"btn-primary\",\"linkIsExternal\":false,\"linkPageId\":null,\"queryParameterName\":null,\"inputLabel\":null,\"inputRegex\":null,\"backgroundContrast\":null,\"inputId\":\"XPrOHifWWk6ajTJAw1njiQ\",\"campaignCode\":null,\"invitationCode\":null,\"agentCode\":null,\"accountType\":null,\"isGreen\":false,\"productCode\":null,\"referralId\":null,\"exactTargetId\":null,\"queryString\":null,\"marketGroup\":null,\"openInNewWindow\":false,\"isSmallCommercial\":false},\"gridImage\":null})"
+    ]
+  },
+  {
+    "url": "https://www.lowerelectric.com/blog",
+    "emails": [
+      "info@lowerelectric.com."
+    ]
+  },
+  {
+    "url": "https://majorenergy.com",
+    "emails": [
+      "customercare@majorenergy.comPhone:"
+    ]
+  },
+  {
+    "url": "https://majorenergy.com/about-us/",
+    "emails": [
+      "customercare@majorenergy.com"
+    ]
+  },
+  {
+    "url": "https://majorenergy.com/terms-of-use/",
+    "emails": [
+      "privacy@majorenergy.com,"
+    ]
+  },
+  {
+    "url": "https://majorenergy.com/privacy-policy",
+    "emails": [
+      "privacy@verdeenergy.com"
+    ]
+  },
+  {
+    "url": "https://majorenergy.com/accessibility-statement/",
+    "emails": [
+      "accessibility@majorenergy.com."
+    ]
+  },
+  {
+    "url": "https://mansfield.energy/fuelsnews-360/",
+    "emails": [
+      "fuelsnews@mansfieldoil.com"
+    ]
+  },
+  {
+    "url": "https://www.mc2energyservices.com/Content/Current_Rates.pdf",
+    "emails": [
+      "0m��*`�^����w?��������~\u0017�����{��������%���\u0015�o�^}r������+���ի��77�>\u0006n�\u0006�v�V\u001d@�/\u001d�H���\b��>�O�������W�gO�\u001a\u0003�O�����W���\u0017W�`����\u000f�wں�=�A\u0003����{M�R\u001b{������o׿��o߾�~�<�oĻ\u0017�E[��Ϟ����Cx�����ۿ\\߼��~�B�~�\u001d?I��xu��\u0016�ś���O����I�Ś@��F;Z�\u0017W�o^i����W����Wנ��A�_�^_�~��=��?X����zm����\u001f�ʩ����۶~���œۗ��w�6����z���+��ݼ\u0015N��s.���y��.�'e�?��H�o��\u001bH�v���߽���Ͽ�z�_ۺ��{-Q@<�\b��u|��\u000e�\u0014π��?l�V��\u0018w\"��w�J9�]ەRw�����"
+    ]
+  },
+  {
+    "url": "https://www.mc2energyservices.com/IL/Community-Solar/Join-Evanston",
+    "emails": [
+      "EvanstonCommunitySolar@mc2energyservices.com"
+    ]
+  },
+  {
+    "url": "https://www.mc2energyservices.com/municipal-aggregation/illinois",
+    "emails": [
+      "info@mc2energyservices.com"
+    ]
+  },
+  {
+    "url": "https://www.messer-us.com",
+    "emails": [
+      "Ask.Messer@messer-us.com."
+    ]
+  },
+  {
+    "url": "https://www.messer-us.com/contact",
+    "emails": [
+      "sales@messer-us.com."
+    ]
+  },
+  {
+    "url": "https://mpowerenergy.com/app/pdf/terms-conditions.pdf",
+    "emails": [
+      "���7�6����\b�\u0018\u0001m\u0010�6f��\u0011\u0015�lw@��\u00018,B�e��5���,?�*yU\u0018�dv&\"oL�(�xu\u001a\u000edc����\u0015d9\u001ceQȬz_��YBRW(0S�i��S6Y�q�\u0011.>%\u001b\u0012����o�B��J����\u000f�AQV�����@\u0002\u0003\u0004����Tffg��#0t*H�\b\u0006\u001aBʪ,A"
+    ]
+  },
+  {
+    "url": "https://ngande.com",
+    "emails": [
+      "customercare@NGandE.com"
+    ]
+  },
+  {
+    "url": "https://ngande.com/customer-care-center/",
+    "emails": [
+      "customercare@NGandE.comImportant"
+    ]
+  },
+  {
+    "url": "https://www.nexteraenergyservices.com",
+    "emails": [
+      "pura.information@ct.gov."
+    ]
+  },
+  {
+    "url": "https://www.nexteraenergyservices.com/for-home/support/contact-us.html",
+    "emails": [
+      "custserv@nexteraenergyservices.com"
+    ]
+  },
+  {
+    "url": "https://www.nexteraenergyservices.com/large-business/partners/contractor-portal.html",
+    "emails": [
+      "Solutions@NextEraEnergyServices.com"
+    ]
+  },
+  {
+    "url": "https://www.nexteraenergyservices.com/aggregations.html",
+    "emails": [
+      "IEC@nexteraenergyservices.com"
+    ]
+  },
+  {
+    "url": "https://www.nexteraenergyservices.com/about-us/press-room.html",
+    "emails": [
+      "Media.Relations@NextEraEnergyServices.com"
+    ]
+  },
+  {
+    "url": "https://www.nexteraenergyservices.com/terms-of-use.html",
+    "emails": [
+      "Copyrights@nexteraenergyservices.com"
+    ]
+  },
+  {
+    "url": "https://www.nexteraenergyservices.com/privacy-policy.html",
+    "emails": [
+      "unsubscribe@nexteraenergyservices.com."
+    ]
+  },
+  {
+    "url": "https://www.nordicenergy-us.com",
+    "emails": [
+      "info@nordicenergy-us.com"
+    ]
+  },
+  {
+    "url": "https://www.nordicenergy-us.com/about-us/",
+    "emails": [
+      "corey@rhinogroup.com"
+    ]
+  },
+  {
+    "url": "https://www.nordicenergy-us.com/privacy-policy/",
+    "emails": [
+      "customerservice@nordicenergy-us.com"
+    ]
+  },
+  {
+    "url": "https://www.parkpower.com/privacy-policy/",
+    "emails": [
+      "info@parkpower.com"
+    ]
+  },
+  {
+    "url": "https://www.publicpowercompany.com",
+    "emails": [
+      "service@ppandu.com"
+    ]
+  },
+  {
+    "url": "http://www.pureenergyus.com",
+    "emails": [
+      "contact@pureenergyus.com"
+    ]
+  },
+  {
+    "url": "https://realgyenergyservices.com",
+    "emails": [
+      "USA877-300-6747860-233-2270support@realgy.com"
+    ]
+  },
+  {
+    "url": "https://www.reliant.com/en/residential/electricity/electricity-plans/moving/index.jsp",
+    "emails": [
+      "RegExp(/^([a-zA-Z0-9_.+-])+\\@(([a-zA-Z0-9-])+\\.)+([a-zA-Z0-9]{2,4})+$/);"
+    ]
+  },
+  {
+    "url": "https://www.reliant.com/en/residential/electricity/backup-power/home-generators/index.jsp",
+    "emails": [
+      "RegExp(/^([a-zA-Z0-9_.+-])+\\@(([a-zA-Z0-9-])+\\.)+([a-zA-Z0-9]{2,4})+$/);function"
+    ]
+  },
+  {
+    "url": "https://www.reliant.com/en/residential/electricity/save-energy/energy-usage-tools.jsp",
+    "emails": [
+      "<guillaume@wisembly.com>"
+    ]
+  },
+  {
+    "url": "https://www.reliant.com/public/fps/identify.htm?iid=RPR_MR1_2017Sept_ForgotPassword_TopNav",
+    "emails": [
+      "/^([\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4})?$/;"
+    ]
+  },
+  {
+    "url": "https://rescom-energy.com",
+    "emails": [
+      "60610customerservice@rescom-energy.com877-4-RESCOM877-473-7266"
+    ]
+  },
+  {
+    "url": "https://rushmoreenergy.com",
+    "emails": [
+      "ContactUs@RushmoreEnergy.com"
+    ]
+  },
+  {
+    "url": "https://santannaenergyservices.com/about-santanna/renewals-and-upgrades/",
+    "emails": [
+      "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":[\"WebPage\",\"FAQPage\"],\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Can"
+    ]
+  },
+  {
+    "url": "https://shellenergy.com/faq",
+    "emails": [
+      "HappytoHelp@ShellEnergy.com"
+    ]
+  },
+  {
+    "url": "https://shellenergy.com/Contact-Us",
+    "emails": [
+      "FormEmail:HappytoHelp@ShellEnergy.com"
+    ]
+  },
+  {
+    "url": "https://southbayenergy.com",
+    "emails": [
+      "info@southbayenergy.comHoursOpen"
+    ]
+  },
+  {
+    "url": "https://www.sparkenergy.com",
+    "emails": [
+      "customercare@sparkenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.starenergypartners.com/privacy-policy/",
+    "emails": [
+      "feedback@starenergypartners.com"
+    ]
+  },
+  {
+    "url": "https://www.starionenergy.com",
+    "emails": [
+      "sales@starionenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.starionenergy.com/service-areas/delaware/",
+    "emails": [
+      "DEcustomer@starionenergy.com."
+    ]
+  },
+  {
+    "url": "https://www.starionenergy.com/service-areas/illinois/",
+    "emails": [
+      "netmeter@starionenergy.com."
+    ]
+  },
+  {
+    "url": "https://www.starionenergy.com/service-areas/maryland/",
+    "emails": [
+      "MDcustomer@starionenergy.com."
+    ]
+  },
+  {
+    "url": "https://www.starionenergy.com/about-us/faqs/",
+    "emails": [
+      "cancel@starionenergy.com."
+    ]
+  },
+  {
+    "url": "https://www.starionenergy.com/privacy-policy/",
+    "emails": [
+      "compliance@starionenergy.com."
+    ]
+  },
+  {
+    "url": "https://www.starionenergy.com/terms-of-use/",
+    "emails": [
+      "info@starionenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.mystream.com/en/",
+    "emails": [
+      "commercial@mystreamtx.com."
+    ]
+  },
+  {
+    "url": "https://www.summerenergy.com",
+    "emails": [
+      "service@summerenergy.com."
+    ]
+  },
+  {
+    "url": "https://www.summerenergy.com/Public/Contact",
+    "emails": [
+      "sales@summerenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.summerenergy.com/Files/Q12022EDLSummerMidwest.docx",
+    "emails": [
+      "UXc+�\u000f\"W�����@y���g\u0010F�*\\�?����ӲN:;\\N\u0015�x���\u000f���8�?��\u0015�pY��ȋ\u0013=Š>�\u0017|��a\u0014&�.L���ݚI�\\\u0002�I��Z:�qi���w�U�\u0019�O���'T�����"
+    ]
+  },
+  {
+    "url": "https://www.summerenergy.com/Public/Careers",
+    "emails": [
+      "careers@summerenergy.com."
+    ]
+  },
+  {
+    "url": "https://www.summerenergy.com/Public/Brokers",
+    "emails": [
+      "newsales@summerenergy.com."
+    ]
+  },
+  {
+    "url": "https://www.tenaskapowermanagement.com/wp-content/uploads/sites/10/2021/12/Broker-License-List.pdf",
+    "emails": [
+      "\u0015\u001a9G���GmuVQB)#\u0014�..B\u0018�_���E\u0006�@-���0\u0016ؙd�x����\u001c�^ф�c&�|m«=\u0017��D~\u0006c����\u0013���_(7�\u0002�(��2z�.�0���c�\u0006V�`mV�Kw\u001d/wP�n\u0013H�VA��\u0011�m"
+    ]
+  },
+  {
+    "url": "https://www.tenaskapowermanagement.com/tenaskapowermanagement/contact-us/",
+    "emails": [
+      "TPMCustomerService@tnsk.com"
+    ]
+  },
+  {
+    "url": "https://www.thinkenergy.com/faqs/",
+    "emails": [
+      "customercare@mythinkenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.thinkenergy.com/legal-notice/",
+    "emails": [
+      "questions@mythinkenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.trieagleenergy.com/tx/customerservice/default",
+    "emails": [
+      "customercare@trieagleenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.trieagleenergy.com/-/media/Project/Retail-Expansion/TriEagleEnergy/Files/Pdf/PA_Historic_Variable.pdf",
+    "emails": [
+      "�\u0004�ղ^Q���>D,C̗�Z�\u000f}a\u000f�>M(�ƀ�T�t��V��s�9��=U���)�#[�\u0014�}@.��帘O��bޛ��m{X,WU�%[n��E?\\JB�k�6\u0001\u0015��PD\u000fߞ*Bl\u0004�\u0006��E\u0001�U�̘�䤏Ŏ��79ic�रG9�kOc��\u0014�X�;\u0006��Y�����/g�������$��gt~��㣴B���y\u0017>�v�\u000f]�`�M;�0��.;E��G��\u0004ʞ�\u0004��Z"
+    ]
+  },
+  {
+    "url": "https://www.verdeenergy.com",
+    "emails": [
+      "customercare@verdeenergy.com"
+    ]
+  },
+  {
+    "url": "https://www.viridian.com",
+    "emails": [
+      "askv@viridian.com"
+    ]
+  },
+  {
+    "url": "https://www.viridian.com/-/media/Project/Retail-Expansion/Viridian/Viridian/Privacy-Policy/Pdf/ViridianPrivacyPolicy.pdf",
+    "emails": [
+      "�2^��&h\u0014\u0002�Z\u00104�Z�\u0016D�AHu�3Oc=@T�͗�.)�Y�e�E$C\u001bC\u001e�\u0003q��Xz����\u0014�5�I�ܰ�X�\u0005�\u0001�"
+    ]
+  },
+  {
+    "url": "https://vistaenergymarketing.com/terms-of-use/",
+    "emails": [
+      "customerservice@vistaenergymarketing.com"
+    ]
+  },
+  {
+    "url": "https://vistaenergymarketing.com/privacy-policy/",
+    "emails": [
+      "info@vistaenergymarketing.com."
+    ]
+  },
+  {
+    "url": "https://wieland-rolledproductsna.com/wp-content/uploads/2020/03/Wieland-North-America-Privacy-Policy_REV030220_clean.pdf",
+    "emails": [
+      "����\u0007xH,�G����\u0007)@��\\�Nx��3\u001e஖�\u0004�K>v���dB�s-o���\u000f�Y2��G�\u0002\\�\u001e�~�\u0005�+��\u001bA\u001f��%J���P��'{y��ޢa>�^V�0̹S\u001fHś���x˖RۧO�@���T.<��;\u0018a�H\u000fR7Э2���t��`\u001e��\u000fdV_�\u001bb\u0003T+`�\\\u001a��wǦ�S�>��P#����P�\u000eJ\\�\u000e�)h��[�ֵNX��<_pR)���*��T��IWY\u0005�r�]R��\u001a5\u001e\u000f�,5\u001eo'�R���F����\u0007\b\u0017̥p\u001707E�T���P\u001d���)�>:�!�q���/W�Ds�Z~���(�+1+}�pj��3"
+    ]
+  },
+  {
+    "url": "https://wieland-rolledproductsna.com/wp-content/uploads/2020/10/Harrassment_Policy_Wieland.pdf",
+    "emails": [
+      "\u0010��>�\u001cw\u000f�ٜ%P�\u0014r�\u001f��\u0001�NR�\u0019eb\u000ey��6l�\u0003*����s���)d�o\u001c݀\u0019�@�q�\u001b;�\u0011�@�ڂ\u000f.\u001f]��b��\u0002\u000f��q�i��\u0018��\"��w8=�8�Y�W�ȁf8}ކ3�aK�\u001b\u0017�"
+    ]
+  },
+  {
+    "url": "https://xoomenergy.com/en/residential/illinois",
+    "emails": [
+      "'!@#$%^&*()+=[]\\\\\\';,/{}|\":<>?~`.-"
+    ]
+  }
+]
